@@ -12,7 +12,7 @@
 
 • Extracted data from HTTP source using Azure Data Factory, transformed it with Databricks, and performed aggregations in Synapse Analytics.
 
-• Created Power BI with Azure for data visualization and insights.
+• Connected Power BI with Azure for data visualization and insights.
 
 • Gained proficiency in Azure cloud services, ETL processes, and data engineering practices.
 
